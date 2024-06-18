@@ -31,8 +31,6 @@ public class ContaTerminal {
             System.out.printf("Olá %s, obrigado por criar uma conta em nosso banco, sua agência é %s, conta %d e seu saldo %.2f.\n",
             dadosBancarios.nomeCliente,dadosBancarios.agencia,dadosBancarios.numero,dadosBancarios.saldo);
         }
-        System.out.println("");
-        // System.out.print("Digite o valor de depósito Inicial com '.' em vez de virgula Ex:2.50 : ");
-        // dadosBancarios.saldo = sc.nextDouble();
+        
     }
 }
