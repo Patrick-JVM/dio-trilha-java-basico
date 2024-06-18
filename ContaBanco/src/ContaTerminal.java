@@ -1,3 +1,10 @@
+/**
+ * @author Patrick Santos Sousa
+ * @version 1
+ * @since 17/06/2024
+ * Programa de Criação de conta bancária simples
+ */
+
 import java.util.Locale;
 import java.util.Scanner;
 public class ContaTerminal {
